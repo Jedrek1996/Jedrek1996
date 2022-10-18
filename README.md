@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&text=Hello%20Everyone!%20It's%20Jed!%20👋&fontColor=175173&fontSize=40)
 
-- 🧑 A recent graduate (August 2022) from SIM with a degree in Geographic Information Science!
+- 🧑 A recent graduate from SIM with a degree in Geographic Information Science!
 - 🧑‍💼 My first job was a Front End Developer!
 - 🔭 I’m currently working on improving my web development skills
 - 🌱 I’m currently learning GO, a backend programming language
@@ -10,7 +10,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I collect figurines!
 
-<img align="right" alt="Man Coding" width="200" src="https://media.tenor.com/6PUE1PAsXQUAAAAd/scaler-create-impact.gif"> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
