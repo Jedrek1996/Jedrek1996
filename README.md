@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&text=Hello%20Everyone!%20It's%20Jed!&fontColor=175173&fontSize=40)
+
 - 🧑 A recent graduate (August 2022) from SIM with a degree in Geographic Information Science!
 - 🧑‍💼 My first job was a Front End Developer!
 - 🔭 I’m currently working on improving my web development skills
@@ -9,8 +11,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/jedrek-koh/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I collect figurines!
-
-<img align="right" alt="Guy Coding Something" width ="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 
