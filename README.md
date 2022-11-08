@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning GO, a backend programming language
 - 🤔 I’m looking for help with backend scripting!
 - 💬 Ask me about anything regarding Front End
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I collect figurines!
 
 
