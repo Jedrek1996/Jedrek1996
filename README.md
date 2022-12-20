@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on improving my web development skills
 - 🌱 I’m currently learning GO, a backend programming language
 - 🤔 I’m looking for help with backend scripting!
-- 💬 Ask me about anything regarding Front End
 - ⚡ Fun fact: I collect figurines!
 
 
