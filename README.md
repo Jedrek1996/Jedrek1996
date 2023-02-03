@@ -24,3 +24,5 @@
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jedrek-koh" height="30" width="40" /></a>
 </p> 
+
+![](https://komarev.com/ghpvc/?username=Jedrek1996)
