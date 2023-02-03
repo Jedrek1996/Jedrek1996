@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&text=Hello%20Everyone!%20It's%20Jed!%20👋&fontColor=175173&fontSize=40)
 
 <div align="center">
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&text=Hello%20Everyone!%20It's%20Jed!%20👋&fontColor=175173&fontSize=40)
+
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
 
