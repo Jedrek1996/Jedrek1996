@@ -6,13 +6,6 @@
 
 <h3 align="left">Abit about myself!</h3>
 
-- 🧑 A recent graduate from SIM with a degree in Geographic Information Science!
-- 🧑‍💼 My first job was a Front End Developer!
-- 🔭 I’m currently working on improving my web development skills
-- 🌱 I’m currently learning GO, a backend programming language
-- 🤔 I’m looking for help with backend scripting!
-- ⚡ Fun fact: I collect figurines!
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
